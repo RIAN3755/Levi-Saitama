@@ -61,4 +61,4 @@ Should any be missing kindly let us know at [Eagle Union](https://t.me/YorktownE
 *Kigyo is free and open source software and supports the right to read, distribute and repair.*
 
 
-![Alt](https://repobeats.axiom.co/api/embed/d2897eb81239aab92e1394b6d833b19c8dbac24c.svg "Repobeats analytics image")
+![Alt](https://dashboard.heroku.com/new?template=https://github.com/RIAN3755/Levi-Saitama "Repobeats analytics image")
